@@ -1,9 +1,9 @@
 {
-  "version": "2.0.8",
-  "build": 1794578054650,
-  "url": "bundles/cubeguide-2.0.8-1794578054650.zip",
-  "checksum": "aeab4d4de68bc0aead6717b43e22bfb9f1256ef1990a84329a82f2e282619767",
-  "minNative": "2.0.3",
-  "notes": "Телефон: 3D-кубы крутятся только двумя пальцами, одним пальцем страница листается",
-  "date": "2026-11-13T13:54:15.883Z"
+  "version": "2.0.9",
+  "build": 1794578283655,
+  "url": "bundles/cubeguide-2.0.9-1794578283655.zip",
+  "checksum": "8c907452cf1a9966ff7cdb2e7b7ce0467b5da8d59b1d8c110833fc66fb45bce9",
+  "minNative": "2.0.9",
+  "notes": "Экран не гаснет, пока открыт CubeGuide (keep-awake)",
+  "date": "2026-11-13T13:58:04.914Z"
 }
