@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "build": 1794528681332,
-  "url": "bundles/cubeguide-2.0.5-1794528681332.zip",
-  "checksum": "37274b75e6428b811095bcda76187f88fbe5b42f2546faf61457a0fbc70f613f",
+  "version": "2.0.6",
+  "build": 1794529012964,
+  "url": "bundles/cubeguide-2.0.6-1794529012964.zip",
+  "checksum": "7cb85d42d0d8c82bb36f07421d7fcdcfabeee85c8c1a800826ea4960b8c182b1",
   "minNative": "2.0.3",
-  "notes": "Окно обновления со шкалой прогресса и автоперезапуском",
-  "date": "2026-11-13T00:11:22.338Z"
+  "notes": "Проверка обновления по воздуху",
+  "date": "2026-11-13T00:16:54.112Z"
 }
